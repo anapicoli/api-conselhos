@@ -39,7 +39,7 @@ Conselhos é um projeto com o objetivo de treinar o funcionamento das API's  e a
 ## 🎨 Layout
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-(![image](https://github.com/user-attachments/assets/dad17e6c-9992-4452-91cf-9de222102098)
+![image](https://github.com/user-attachments/assets/dad17e6c-9992-4452-91cf-9de222102098)
 
 <!-- ---------------------------------------------------------------------- -->
 
